@@ -14,6 +14,31 @@
 
 ###
 
+<h2 align="left">Работа с приложением:</h2>
+
+###
+
+<h3 align="left"> Запуск приложения:</h3>
+
+###
+
+```
+docker compose up
+```
+
+###
+
+<h3 align="left"> Запуск тестирования:</h3>
+
+###
+
+```
+pytest test/ -v
+```
+
+
+###
+
 <h2 align="left">Технологический стек:</h2>
 
 ###
@@ -34,6 +59,7 @@
 
 ###
 
-<p align="left">Остальные, у кого нет крутого логотипа): <br>Alembic<br>Pydantic<br>Uvicorn</p>
-
+<h3 align="left">И остальные, без крутого логотипа):</h3>
+<p align="left">Alembic<br>Pydantic<br>Uvicorn</p>
+  
 ###
