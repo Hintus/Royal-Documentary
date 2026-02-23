@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from app.api.endpoints import auth, documents, document_path, compare, updates
+from app.api.endpoints import auth, documents, document_path, compare
 
 router = APIRouter()
 
